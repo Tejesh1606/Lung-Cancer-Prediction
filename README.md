@@ -15,23 +15,23 @@ This Jupyter Notebook contains code for building a machine learning model to pre
 
 ## Usage
 
-### Data Preparation
+### 1. Data Preparation
 
 Ensure the `survey_lung_cancer.csv` dataset is available in the same directory as the notebook.
 
-### Environment Setup
+### 2. Environment Setup
 
 Install the required Python libraries using ipynb kernel.
 
-### Run Notebook
+### 3. Run Notebook
 
 Open and execute the `lung_cancer_prediction.ipynb` notebook in Jupyter Notebook.
 
-### Follow Instructions
+### 4. Follow Instructions
 
 Follow the instructions within the notebook to preprocess data, train the model, evaluate performance, and make predictions.
 
-### Interpret Results
+### 5. Interpret Results
 
 Analyze model performance metrics and predicted lung cancer outcomes to gain insights into the dataset.
 
